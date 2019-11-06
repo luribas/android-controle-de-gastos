@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "107906201706",
+    "firebase_url": "https://controledegastos-up.firebaseio.com",
+    "project_id": "controledegastos-up",
+    "storage_bucket": "controledegastos-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107906201706:android:36d196666292db5679b213",
+        "android_client_info": {
+          "package_name": "br.edu.up.controledegastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107906201706-rjdm5drpeabm368q2np3v31n105jo6tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.up.controledegastos",
+            "certificate_hash": "3d518f3bd6a430f8505776427b631a2fd69080d4"
+          }
+        },
+        {
+          "client_id": "107906201706-dh7jdnqiqtpeccj2if91lrkn121qpcbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEq3VYmyzeYgx2SSxvJCeRSKdUQU4J-K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107906201706-dh7jdnqiqtpeccj2if91lrkn121qpcbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
